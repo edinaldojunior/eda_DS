@@ -1,6 +1,6 @@
 # DS Challenge: EDA
 
-##1. Introdução
+## 1. Introdução
 
 A Análise Exploratória de Dados refere-se ao processo crítico de realização de investigações iniciais sobre os dados, de modo a descobrir padrões, detectar anomalias, testar hipóteses e verificar suposições com a ajuda de estatísticas resumidas e representações gráficas. O objetivo deste projeto é construir uma EDA do dataset "receitas.json", adotando os seguintes ponto:  
 
